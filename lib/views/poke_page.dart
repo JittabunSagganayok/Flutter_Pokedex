@@ -67,6 +67,9 @@ class _PokePageState extends State<PokePage> {
                                 //     ? Colors.white
                                 //     : Colors.deepPurple,
                               ),
+//                               Image(
+//                                 image: NetworkImageWithRetry(e.img),
+//                               ),
                               SizedBox(height: 10),
                               Text(
                                 e.name,
